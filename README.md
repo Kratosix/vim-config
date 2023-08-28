@@ -10,4 +10,4 @@
 
 5. Enjoy!!!!
 
-### NOTE, Most of the code credit goes to [geradbm](https://github.com/geradbm)
+### NOTE, Most of the code credit goes to [geradbm](https://github.com/gerardbm)
