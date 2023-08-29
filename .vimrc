@@ -7,7 +7,7 @@
 "
 "----------------------------------------------------------------
 "  Version : 2.9.0
-"  License : MIT
+"  License : GNU License
 "  Author  : Kratosix
 "  "Full credit goes to https://github.com/gerardbm
 "----------------------------------------------------------------
